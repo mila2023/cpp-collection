@@ -1,5 +1,5 @@
 # cpp-collection
-A compact collection of C++ programs — graded lab assignments and exercises from university, organized and commented.
+A compact collection of C++ programs — graded lab assignments and exercises from university, organized by topic.
 
 
 Copyright (c) 2025 Kamila Wachulec. All rights reserved.
